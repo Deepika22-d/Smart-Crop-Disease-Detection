@@ -1,78 +1,67 @@
-🌾✨ Smart Crop Disease Detection & Automated Action System
+🌱🤖 Smart Crop Disease Detection and Action System
 
-A modern AI + IoT farming solution designed to detect crop leaf diseases in real time and automatically activate the required action. This project uses a CNN deep learning model with ESP32-based hardware automation to support farmers with fast, accurate, and smart plant health monitoring.
+A powerful AI + IoT-based system designed to identify crop leaf diseases in real-time and automatically activate pumps or sprayers to protect crops. This project helps farmers monitor plants easily, reduce crop losses, and improve productivity through smart technology.
 
-🚀 What This System Can Do
+🎯 Objective
 
-✔ Detect crop diseases from leaf images (Wilt, Blight, Rust)
-✔ Automatically turn ON sprayers/pumps using relays
-✔ Monitor temperature, humidity & soil moisture live
-✔ Show data on a mini OLED display
-✔ Send instant alerts to mobile via Blynk/Telegram
-✔ Reduce manual monitoring & prevent crop loss
+To detect crop diseases early using image processing and a CNN model, and to perform automatic disease control actions using ESP32-controlled relays and pumps.
 
-🧠 Core Technologies
+🛠️ Components Used
+Component	Purpose
+ESP32 Board	Main IoT controller with WiFi
+USB Webcam	Captures live leaf images
+CNN Model (TensorFlow/Keras)	Detects Wilt, Blight, Rust
+Soil Moisture Sensor	Monitors soil dryness level
+DHT11 Sensor	Measures temperature & humidity
+DS3231 RTC Module	Time-stamped data logging
+0.96” OLED Display	Shows sensor & system status
+4-Channel Relay Module	Controls pump/sprayer
+Water Pump / Sprayer	Automatic disease treatment
+Float Sensors	Monitors tank water levels
+5V Adapter / Buck Converter	Power supply for hardware
+🌟 Key Features
 
-AI / CNN Model (TensorFlow/Keras)
+🔍 AI-based leaf disease identification
 
-ESP32 Microcontroller
+⚡ Automatic pump/sprayer activation
 
-OpenCV for live image capture
+📡 Real-time monitoring using Blynk/Telegram
 
-IoT Cloud (Blynk / Telegram)
+🌡 Live temperature & humidity tracking
 
-Real-time Sensors & Relays
+🪴 Soil moisture–based irrigation
 
-🛠️ Hardware Components
+🕒 RTC-based time logging
 
-🌐 ESP32 Wi-Fi Board
+🖥 OLED display for on-site readings
 
-🌡️ DHT11 Temperature & Humidity Sensor
+🌐 IoT-enabled remote access
 
-🌱 Soil Moisture Sensor
+🚀 Applications
 
-⏱ DS3231 RTC Module
+🌾 Smart Agriculture
 
-🖥 0.96" OLED Display
+🏡 Home / Terrace Farming
 
-⚡ 4-Channel Relay Module
+🌱 Research Labs
 
-💧 Water Pump / Sprayer
+🚜 Precision Farming
 
-📸 USB Webcam
+🧪 Disease Testing & Demo Units
 
-🔄 How the System Works
+🌍 Future Scope
 
-Camera captures the leaf image.
+🌐 Cloud database with crop history
 
-CNN model predicts the disease type.
+🤖 AI model expansion for 10+ diseases
 
-ESP32 receives signal from Python through serial.
+☀ Solar-powered irrigation control
 
-Relay activates pump/sprayer based on disease.
+📱 Mobile app with advanced analytics
 
-OLED displays live sensor readings.
+🌦 Weather-based smart irrigation
 
-Data sent to Blynk/Telegram for remote monitoring.
-
-🌟 Why This Project Is Important
-
-Helps farmers identify diseases early
-
-Reduces crop damage and pesticide overuse
-
-Fully automatic → saves time & effort
-
-Affordable and scalable for real farming
-
-👩‍💻 Developer
+✍️ Project By:
 
 Deepika Sekar
 B.E – Electronics & Communication Engineering
-
-📌 Project Status
-
-✔ Model Trained
-✔ Hardware Working
-✔ Cloud Connected
-✔ Ready for Real-Time Use
