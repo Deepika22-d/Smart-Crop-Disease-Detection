@@ -1,119 +1,78 @@
-🌱 Smart Crop Disease Detection and Action
+🌾✨ Smart Crop Disease Detection & Automated Action System
 
-AI + IoT Based Real-Time Crop Health Monitoring & Automated Action System
+A modern AI + IoT farming solution designed to detect crop leaf diseases in real time and automatically activate the required action. This project uses a CNN deep learning model with ESP32-based hardware automation to support farmers with fast, accurate, and smart plant health monitoring.
 
-📌 Project Overview
+🚀 What This System Can Do
 
-This project uses Artificial Intelligence (CNN Model) and IoT (ESP32) to detect crop leaf diseases and take automatic actions such as turning ON sprayers or pumps. The system identifies diseases like Wilt, Blight, and Rust using a trained deep learning model and activates relays for corrective actions.
-Environmental sensors like DHT11 and Soil Moisture Sensor help monitor field conditions, while real-time alerts are sent to Blynk/Telegram.
+✔ Detect crop diseases from leaf images (Wilt, Blight, Rust)
+✔ Automatically turn ON sprayers/pumps using relays
+✔ Monitor temperature, humidity & soil moisture live
+✔ Show data on a mini OLED display
+✔ Send instant alerts to mobile via Blynk/Telegram
+✔ Reduce manual monitoring & prevent crop loss
 
-🚀 Key Features
+🧠 Core Technologies
 
-🌿 AI-based leaf disease detection (CNN Model – TensorFlow/Keras)
-
-📷 Live webcam image processing
-
-🔔 Real-time alert system (Blynk / Telegram)
-
-⚡ Automatic pump/sprayer activation through 4-channel relay
-
-🌡️ Monitoring of temperature, humidity, and soil moisture
-
-🕒 Accurate time logging using DS3231 RTC
-
-🖥️ Live display of values on OLED screen
-
-☁ Cloud connectivity for mobile monitoring
-
-🧠 Technologies Used
-
-Python (OpenCV, TensorFlow, Keras, NumPy)
+AI / CNN Model (TensorFlow/Keras)
 
 ESP32 Microcontroller
 
-CNN Deep Learning Model (model.h5)
+OpenCV for live image capture
 
-Blynk Cloud / Telegram Alerts
+IoT Cloud (Blynk / Telegram)
 
-Sensors: DHT11, Soil Moisture, RTC
+Real-time Sensors & Relays
 
-Actuators: Relay Module + Water Pump
+🛠️ Hardware Components
 
-OLED Display (I2C)
+🌐 ESP32 Wi-Fi Board
 
-🔧 Hardware Components
+🌡️ DHT11 Temperature & Humidity Sensor
 
-ESP32 Development Board
+🌱 Soil Moisture Sensor
 
-DHT11 Temperature & Humidity Sensor
+⏱ DS3231 RTC Module
 
-Soil Moisture Sensor
+🖥 0.96" OLED Display
 
-DS3231 RTC Module
+⚡ 4-Channel Relay Module
 
-0.96" OLED Display (SSD1306)
+💧 Water Pump / Sprayer
 
-4-Channel Relay Module
+📸 USB Webcam
 
-Water Pump / Sprayer
+🔄 How the System Works
 
-Float Sensors
+Camera captures the leaf image.
 
-5V Adapter / Buck Converter
+CNN model predicts the disease type.
 
-Jumper Wires & Breadboard
+ESP32 receives signal from Python through serial.
 
-🛠️ Working Principle
+Relay activates pump/sprayer based on disease.
 
-ESP32 powers up and reads all sensor values.
+OLED displays live sensor readings.
 
-Webcam captures crop leaf image.
+Data sent to Blynk/Telegram for remote monitoring.
 
-Python CNN model analyzes image and detects disease type.
+🌟 Why This Project Is Important
 
-ESP32 receives disease signal (1/2/3) through serial communication.
+Helps farmers identify diseases early
 
-Relay module automatically activates pump/sprayer based on detected disease.
+Reduces crop damage and pesticide overuse
 
-Sensor data is shown on OLED and sent to Blynk/Telegram.
+Fully automatic → saves time & effort
 
-RTC logs time-based data for tracking environmental conditions.
+Affordable and scalable for real farming
 
-📂 Project Structure Example
-Smart-Crop-Disease-Detection/
-│── python-code/
-│    ├── main.py
-│    ├── model.h5
-│── esp32-code/
-│    ├── esp32.ino
-│── images/
-│    ├── wilt.jpg
-│    ├── blight.jpg
-│── README.md
-
-📷 System Output
-
-Detection result displayed on the screen
-
-Real-time live crop image preview
-
-Telegram instant alert
-
-Blynk mobile dashboard monitoring
-
-📈 Project Outcome
-
-Reduces farmer workload
-
-Detects disease early → saves crops
-
-Automates spraying and irrigation
-
-Low cost and highly efficient
-
-Ready for IEEE publication and real-field implementation
-
-👩‍💻 Developed By
+👩‍💻 Developer
 
 Deepika Sekar
-Bachelor of Engineering – ECE
+B.E – Electronics & Communication Engineering
+
+📌 Project Status
+
+✔ Model Trained
+✔ Hardware Working
+✔ Cloud Connected
+✔ Ready for Real-Time Use
