@@ -1,162 +1,125 @@
 🌱🤖 Smart Crop Disease Detection & Automated Action System
-<br>
-🚜 Transforming Traditional Farming into Intelligent Smart Agriculture
-<br>
+🚜 AI + IoT Based Smart Agriculture Solution
 
-An advanced AI + IoT-based crop monitoring system that detects plant leaf diseases using Deep Learning and automatically activates pumps or sprayers — reducing crop loss and improving productivity.
+An intelligent agriculture system designed to detect crop diseases early and automatically take corrective action using Artificial Intelligence and IoT technology.
 
-<br><br>
+This project focuses on reducing crop loss, saving water, and supporting farmers with real-time smart monitoring.
 
-<br>
-🌟 Why This Project?
+🌾 Problem Statement
 
-Crop diseases lead to major yield loss due to late detection and manual monitoring.
+Farmers face difficulties in identifying crop diseases at an early stage because:
 
-This system provides:
+Manual inspection is time-consuming
 
-<br>
+Disease symptoms are sometimes hard to detect
 
-🧠 Artificial Intelligence for disease identification
-📡 IoT-based remote monitoring
-⚡ Automated decision-making system
-💧 Smart irrigation control
+Environmental changes affect crop health
 
-<br><br>
+Delayed action leads to major yield loss
 
-<br>
-🎯 Project Objective
-<br>
+A smart automated monitoring system is required to continuously observe crops and take immediate action.
 
-✔ Early detection of plant diseases
-✔ Automatic disease treatment activation
+💡 Proposed Solution
+
+This system combines:
+
+🧠 AI-based leaf disease detection
+
+📡 IoT-enabled environmental monitoring
+
+💧 Automatic irrigation control
+
+🌿 Smart pesticide spraying
+
+📲 Real-time farmer alerts
+
+The system monitors crops continuously and activates irrigation or spraying only when required.
+
+🎯 Objectives
+
+✔ Early detection of crop diseases
+✔ Automatic spraying when disease is detected
 ✔ Soil moisture-based smart irrigation
-✔ Real-time monitoring from anywhere
-✔ Sustainable and precision farming support
+✔ Real-time monitoring and alerts
+✔ Reduce pesticide and water wastage
+✔ Improve crop yield and productivity
 
-<br><br>
-
-<br>
 🛠 Hardware Components
-<br>
 
-🔹 ESP32 Board
-Main IoT controller with WiFi connectivity
+🔹 ESP32 – Main IoT controller
 
-<br>
+📷 USB Webcam – Captures leaf images
 
-📷 USB Webcam
-Captures real-time crop leaf images
+🌱 Soil Moisture Sensor – Detects soil dryness
 
-<br>
+🌡 DHT11 – Measures temperature & humidity
 
-🌱 Soil Moisture Sensor
-Detects dryness level of soil
+🕒 DS3231 RTC – Provides accurate time logging
 
-<br>
+🖥 0.96” OLED Display – Shows live system status
 
-🌡 DHT11 Sensor
-Measures temperature & humidity
+🔌 4-Channel Relay Module – Controls pump & sprayer
 
-<br>
+💦 Water Pump – Irrigation control
 
-🕒 DS3231 RTC Module
-Provides accurate time-stamped logging
+🚰 Float Level Sensors – Monitor tank levels
 
-<br>
+🔋 5V Power Supply
 
-🖥 0.96” OLED Display
-Displays live system status
+💻 Software Used
 
-<br>
+Python
 
-🔌 4-Channel Relay Module
-Controls pump and sprayer activation
+TensorFlow / Keras (CNN Model)
 
-<br>
+OpenCV (Image Processing)
 
-💦 Water Pump / Sprayer
-Executes automatic treatment
+Arduino IDE (ESP32 Programming)
 
-<br>
+IoT Platform for Alerts
 
-🚰 Float Sensors
-Monitors tank water levels
+⚙️ Working Process
 
-<br>
+1️⃣ Sensors continuously monitor soil moisture and environment
+2️⃣ Camera captures crop leaf image
+3️⃣ CNN model classifies disease (Wilt / Blight / Rust)
+4️⃣ If disease detected → Sprayer activates automatically
+5️⃣ If soil is dry → Water pump activates
+6️⃣ OLED displays system status
+7️⃣ Farmer receives real-time alert
 
-🔋 5V Adapter / Buck Converter
-Ensures stable power supply
+📊 Results
 
-<br><br>
+Accurate AI-based disease detection
 
-<br>
-💻 Software Stack
-<br>
+Automated irrigation and spraying
 
-🧠 TensorFlow / Keras – CNN Model
-📷 OpenCV – Image Processing
-🐍 Python – AI Development
-🔧 Arduino IDE – ESP32 Programming
-📲 Blynk / Telegram – IoT Alerts
+Reduced manual monitoring
 
-<br><br>
+Efficient resource management
 
-<br>
-⚙️ System Workflow
-<br>
+Early detection minimizes crop loss
 
-1️⃣ Capture leaf image
+🌍 Applications
 
-<br>
+Agricultural fields
 
-2️⃣ CNN model classifies disease (Wilt / Blight / Rust)
+Greenhouse monitoring
 
-<br>
+Precision farming systems
 
-3️⃣ Sensor data analyzed
+Large-scale farm automation
 
-<br>
+Smart irrigation platforms
 
-4️⃣ If disease detected → Relay activates pump
+🚀 Future Scope
 
-<br>
+Multi-crop disease detection
 
-5️⃣ OLED updates system status
+Drone-based crop monitoring
 
-<br>
+Solar-powered system
 
-6️⃣ Farmer receives real-time IoT alert
+Cloud dashboard for farm analytics
 
-<br><br>
-
-<br>
-🏆 Research Contribution
-<br>
-
-📄 Successfully published in an IEEE Conference under the platform of
-
-Institute of Electrical and Electronics Engineers
-
-<br>
-
-The research highlights innovation in:
-
-• AI-based crop disease detection
-• IoT-integrated irrigation automation
-• Smart agricultural protection systems
-
-<br><br>
-
-<br>
-🌍 Future Enhancements
-<br>
-
-🚀 Multi-disease detection system
-☀ Solar-powered irrigation
-🌐 Cloud-based crop monitoring
-📱 Dedicated mobile application
-🌦 Weather-based smart irrigation
-
-<br><br>
-
-<br>
+Mobile application for farmers
