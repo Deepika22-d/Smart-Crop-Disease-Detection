@@ -1,25 +1,25 @@
-🌱🤖 𝐒𝐌𝐀𝐑𝐓 𝐂𝐑𝐎𝐏 𝐃𝐈𝐒𝐄𝐀𝐒𝐄 𝐃𝐄𝐓𝐄𝐂𝐓𝐈𝐎𝐍 & 𝐀𝐔𝐓𝐎𝐌𝐀𝐓𝐄𝐃 𝐀𝐂𝐓𝐈𝐎𝐍 𝐒𝐘𝐒𝐓𝐄𝐌
-🚜 𝐀𝐈 + 𝐈𝐨𝐓 𝐁𝐀𝐒𝐄𝐃 𝐒𝐌𝐀𝐑𝐓 𝐀𝐆𝐑𝐈𝐂𝐔𝐋𝐓𝐔𝐑𝐄 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍
+🌱🤖 𝗦𝗠𝗔𝗥𝗧 𝗖𝗥𝗢𝗣 𝗗𝗜𝗦𝗘𝗔𝗦𝗘 𝗗𝗘𝗧𝗘𝗖𝗧𝗜𝗢𝗡 & 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗘𝗗 𝗔𝗖𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠
+🚜 𝗔𝗜 + 𝗜𝗢𝗧 𝗕𝗔𝗦𝗘𝗗 𝗦𝗠𝗔𝗥𝗧 𝗔𝗚𝗥𝗜𝗖𝗨𝗟𝗧𝗨𝗥𝗘 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
 
-An intelligent agriculture system designed to detect crop diseases at an early stage and automatically take corrective action using Artificial Intelligence and IoT technology.
+An intelligent agriculture system designed to detect crop diseases early and automatically take corrective action using Artificial Intelligence and IoT.
 
-This project focuses on reducing crop loss, saving water, and enabling real-time smart monitoring for farmers.
+This project reduces crop loss, saves water, and enables real-time smart monitoring.
 
-🌾 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐓𝐀𝐓𝐄𝐌𝐄𝐍𝐓
+🌾 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧
 
-Farmers face difficulties in identifying crop diseases early because:
+Farmers face difficulties because:
 
 • Manual inspection is time-consuming
 
-• Disease symptoms are difficult to notice
+• Disease symptoms are difficult to identify
 
-• Environmental changes affect crop health
+• Environmental variations affect crop health
 
-• Delayed action leads to major yield loss
+• Delayed action causes major yield loss
 
-A smart automated monitoring system is required to continuously observe crops and take immediate corrective action.
+A smart automated monitoring system is required for continuous observation and quick response.
 
-💡 𝐏𝐑𝐎𝐏𝐎𝐒𝐄𝐃 𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍
+💡 𝗣𝗥𝗢𝗣𝗢𝗦𝗘𝗗 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
 
 This system integrates:
 
@@ -33,108 +33,109 @@ This system integrates:
 
 📲 Real-time farmer alerts
 
-The system continuously monitors crops and activates irrigation or spraying only when required.
+✔ Activates irrigation or spraying only when necessary
+✔ Ensures early intervention
 
-🎯 𝐎𝐁𝐉𝐄𝐂𝐓𝐈𝐕𝐄𝐒
+🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
 
-✔ Early detection of crop diseases
+✔ Early disease detection
 
-✔ Automatic spraying when disease is detected
+✔ Automatic spraying system
 
-✔ Soil moisture-based smart irrigation
+✔ Soil moisture-based irrigation
 
-✔ Real-time monitoring and alerts
+✔ Real-time alerts
 
-✔ Reduced pesticide and water wastage
+✔ Reduced resource wastage
 
-✔ Improved crop yield and productivity
+✔ Improved productivity
 
-🛠 𝐇𝐀𝐑𝐃𝐖𝐀𝐑𝐄 𝐂𝐎𝐌𝐏𝐎𝐍𝐄𝐍𝐓𝐒
+🛠 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦
 
-🔹 ESP32 – Main IoT controller
+🔹 ESP32 – Main controller
 
-📷 USB Webcam – Captures leaf images
+📷 USB Webcam – Image capture
 
-🌱 Soil Moisture Sensor – Detects soil dryness
+🌱 Soil Moisture Sensor
 
-🌡 DHT11 – Temperature & Humidity sensor
+🌡 DHT11 Sensor
 
-🕒 DS3231 RTC – Time logging
+🕒 DS3231 RTC
 
-🖥 0.96” OLED Display – Live system status
+🖥 OLED Display
 
-🔌 4-Channel Relay Module – Controls pump & sprayer
+🔌 Relay Module
 
-💦 Water Pump – Irrigation control
+💦 Water Pump
 
-🚰 Float Level Sensors – Tank monitoring
+🚰 Float Sensors
 
-🔋 5V Power Supply
+🔋 Power Supply
 
-💻 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐔𝐒𝐄𝐃
+💻 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗨𝗦𝗘𝗗
 
 • Python
 
-• TensorFlow / Keras (CNN Model)
+• TensorFlow / Keras
 
 • OpenCV
 
 • Arduino IDE
 
-• IoT Platform for Alerts
+• IoT Alert Platform
 
-⚙️ 𝐖𝐎𝐑𝐊𝐈𝐍𝐆 𝐏𝐑𝐎𝐂𝐄𝐒𝐒
+⚙️ 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗣𝗥𝗢𝗖𝗘𝗦𝗦
 
-1️⃣ Sensors monitor soil moisture and environmental conditions
+1️⃣ Monitor soil & environment
 
-2️⃣ Camera captures crop leaf image
+2️⃣ Capture leaf image
 
-3️⃣ CNN model classifies disease (Wilt / Blight / Rust)
+3️⃣ Classify disease (Wilt / Blight / Rust)
 
-4️⃣ If disease detected → Sprayer activates automatically
+4️⃣ Activate sprayer if disease detected
 
-5️⃣ If soil is dry → Water pump activates
+5️⃣ Activate pump if soil is dry
 
-6️⃣ OLED displays system status
+6️⃣ Display status
 
-7️⃣ Farmer receives real-time alert
+7️⃣ Send alert to farmer
 
-📊 𝐑𝐄𝐒𝐔𝐋𝐓𝐒
+📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
 
-• Accurate AI-based disease detection
+• Accurate detection
 
-• Automated irrigation and spraying
+• Automated irrigation & spraying
 
-• Reduced manual monitoring
+• Reduced manual effort
 
-• Efficient resource management
+• Efficient resource use
 
-• Early detection minimizes crop loss
+• Minimized crop loss
 
-🌍 𝐀𝐏𝐏𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒
+🌍 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
 • Agricultural fields
 
-• Greenhouse monitoring
+• Greenhouses
 
-• Precision farming systems
+• Precision farming
 
-• Large-scale farm automation
+• Large-scale automation
 
-• Smart irrigation platforms
+• Smart irrigation systems
 
-🚀 𝐅𝐔𝐓𝐔𝐑𝐄 𝐒𝐂𝐎𝐏𝐄
+🚀 𝗙𝗨𝗧𝗨𝗥𝗘 𝗦𝗖𝗢𝗣𝗘
 
-• Multi-crop disease detection
+• Multi-crop detection
 
-• Drone-based crop monitoring
+• Drone monitoring
 
-• Solar-powered system
+• Solar integration
 
-• Cloud dashboard for farm analytics
+• Cloud dashboard
 
-• Mobile application for farmers
+• Mobile application
 
-🎓 𝐀𝐂𝐀𝐃𝐄𝐌𝐈𝐂 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍
+🎓 𝗔𝗖𝗔𝗗𝗘𝗠𝗜𝗖 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡
 
 Our project paper was published in an IEEE Conference
