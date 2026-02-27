@@ -1,13 +1,20 @@
-🌱🤖 𝗦𝗠𝗔𝗥𝗧 𝗖𝗥𝗢𝗣 𝗗𝗜𝗦𝗘𝗔𝗦𝗘 𝗗𝗘𝗧𝗘𝗖𝗧𝗜𝗢𝗡 & 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗘𝗗 𝗔𝗖𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠
+🌱🤖 𝗦𝗠𝗔𝗥𝗧 𝗖𝗥𝗢𝗣 𝗗𝗜𝗦𝗘𝗔𝗦𝗘 𝗗𝗘𝗧𝗘𝗖𝗧𝗜𝗢𝗡
+𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗘𝗗 𝗔𝗖𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠
 🚜 𝗔𝗜 + 𝗜𝗢𝗧 𝗕𝗔𝗦𝗘𝗗 𝗦𝗠𝗔𝗥𝗧 𝗔𝗚𝗥𝗜𝗖𝗨𝗟𝗧𝗨𝗥𝗘 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
+
+━━━━━━━━━━━━━━━━━━━
+
+🌿 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
 
 An intelligent agriculture system designed to detect crop diseases early and automatically take corrective action using Artificial Intelligence and IoT.
 
-This project reduces crop loss, saves water, and enables real-time smart monitoring.
+This solution helps reduce crop loss, conserve water, and enable real-time smart monitoring for farmers.
+
+━━━━━━━━━━━━━━━━━━━
 
 🌾 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧
 
-Farmers face difficulties because:
+Farmers face major challenges such as:
 
 • Manual inspection is time-consuming
 
@@ -15,9 +22,11 @@ Farmers face difficulties because:
 
 • Environmental variations affect crop health
 
-• Delayed action causes major yield loss
+• Delayed action leads to major yield loss
 
-A smart automated monitoring system is required for continuous observation and quick response.
+👉 A smart automated monitoring system is essential for continuous observation and quick response.
+
+━━━━━━━━━━━━━━━━━━━
 
 💡 𝗣𝗥𝗢𝗣𝗢𝗦𝗘𝗗 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
 
@@ -33,28 +42,33 @@ This system integrates:
 
 📲 Real-time farmer alerts
 
-✔ Activates irrigation or spraying only when necessary
-✔ Ensures early intervention
+✔ Activates irrigation or spraying only when required
+
+✔ Ensures early detection and timely intervention
+
+━━━━━━━━━━━━━━━━━━━
 
 🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
 
 ✔ Early disease detection
 
-✔ Automatic spraying system
+✔ Automated spraying system
 
-✔ Soil moisture-based irrigation
+✔ Soil moisture-based smart irrigation
 
-✔ Real-time alerts
+✔ Real-time monitoring and alerts
 
 ✔ Reduced resource wastage
 
-✔ Improved productivity
+✔ Improved crop productivity
+
+━━━━━━━━━━━━━━━━━━━
 
 🛠 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦
 
-🔹 ESP32 – Main controller
+🔹 ESP32 – Main IoT controller
 
-📷 USB Webcam – Image capture
+📷 USB Webcam – Leaf image capture
 
 🌱 Soil Moisture Sensor
 
@@ -72,6 +86,8 @@ This system integrates:
 
 🔋 Power Supply
 
+━━━━━━━━━━━━━━━━━━━
+
 💻 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗨𝗦𝗘𝗗
 
 • Python
@@ -84,11 +100,13 @@ This system integrates:
 
 • IoT Alert Platform
 
-⚙️ 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗣𝗥𝗢𝗖𝗘𝗦𝗦
+━━━━━━━━━━━━━━━━━━━
 
-1️⃣ Monitor soil & environment
+⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪
 
-2️⃣ Capture leaf image
+1️⃣ Monitor soil and environment
+
+2️⃣ Capture crop leaf image
 
 3️⃣ Classify disease (Wilt / Blight / Rust)
 
@@ -96,46 +114,54 @@ This system integrates:
 
 5️⃣ Activate pump if soil is dry
 
-6️⃣ Display status
+6️⃣ Display live status
 
-7️⃣ Send alert to farmer
+7️⃣ Send real-time alert to farmer
+
+━━━━━━━━━━━━━━━━━━━
 
 📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
 
-• Accurate detection
+• High-accuracy disease detection
 
-• Automated irrigation & spraying
+• Automated irrigation and spraying
 
-• Reduced manual effort
+• Reduced manual monitoring
 
-• Efficient resource use
+• Efficient resource utilization
 
 • Minimized crop loss
+
+━━━━━━━━━━━━━━━━━━━
 
 🌍 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
 • Agricultural fields
 
-• Greenhouses
+• Greenhouse environments
 
 • Precision farming
 
-• Large-scale automation
+• Large-scale farm automation
 
 • Smart irrigation systems
 
+━━━━━━━━━━━━━━━━━━━
+
 🚀 𝗙𝗨𝗧𝗨𝗥𝗘 𝗦𝗖𝗢𝗣𝗘
 
-• Multi-crop detection
+• Multi-crop disease detection
 
-• Drone monitoring
+• Drone-based monitoring
 
-• Solar integration
+• Solar-powered deployment
 
-• Cloud dashboard
+• Cloud-based farm dashboard
 
-• Mobile application
+• Dedicated farmer mobile application
+
+━━━━━━━━━━━━━━━━━━━
 
 🎓 𝗔𝗖𝗔𝗗𝗘𝗠𝗜𝗖 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡
 
-Our project paper was published in an IEEE Conference
+Our project paper was successfully published in an IEEE Conference
