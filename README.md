@@ -1,77 +1,109 @@
-# 🌿💧 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗖 𝗣𝗟𝗔𝗡𝗧 𝗜𝗥𝗥𝗜𝗚𝗔𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠  
-# 𝗨𝗦𝗜𝗡𝗚 𝗜𝗖555  
-## 🌱 𝗦𝗠𝗔𝗥𝗧 𝗦𝗢𝗜𝗟 𝗠𝗢𝗜𝗦𝗧𝗨𝗥𝗘 𝗕𝗔𝗦𝗘𝗗 𝗪𝗔𝗧𝗘𝗥𝗜𝗡𝗚 𝗦𝗬𝗦𝗧𝗘𝗠  
+# 🌱🤖 𝗦𝗠𝗔𝗥𝗧 𝗖𝗥𝗢𝗣 𝗗𝗜𝗦𝗘𝗔𝗦𝗘 𝗗𝗘𝗧𝗘𝗖𝗧𝗜𝗢𝗡  
+# 🚜 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗘𝗗 𝗔𝗖𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠  
+## 🌾 𝗔𝗜 + 𝗜𝗢𝗧 𝗕𝗔𝗦𝗘𝗗 𝗦𝗠𝗔𝗥𝗧 𝗔𝗚𝗥𝗜𝗖𝗨𝗟𝗧𝗨𝗥𝗘 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡  
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🚀 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
+## 🌿 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
 
-An efficient and cost-effective irrigation system that waters plants automatically based on real-time soil moisture conditions using the **IC NE555 Timer**.
+An intelligent agriculture system designed to **detect crop diseases at an early stage** and automatically take corrective action using **Artificial Intelligence and IoT technology**.
 
-This system helps to:
+This solution helps to:
 
-✔ Prevent overwatering  
-✔ Prevent underwatering  
+✔ Reduce crop loss  
 ✔ Conserve water  
-✔ Promote healthy plant growth  
-✔ Reduce manual effort  
+✔ Enable real-time smart monitoring  
+✔ Improve overall farm productivity  
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ✨ 𝗞𝗘𝗬 𝗕𝗘𝗡𝗘𝗙𝗜𝗧𝗦
+## 🌾 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧
 
-🔹 Smart moisture-based watering  
-🔹 Fully automatic operation  
-🔹 Low-cost and simple design  
-🔹 Reliable performance  
-🔹 Suitable for home gardens & small farms  
+Farmers face several challenges:
 
----
+• Manual inspection is time-consuming  
+• Disease symptoms are difficult to identify  
+• Environmental variations affect crop health  
+• Delayed action leads to major yield loss  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘
-
-The main objective of this project is to:
-
-✔ Ensure plants receive the correct amount of water  
-✔ Automate the irrigation process  
-✔ Reduce water wastage  
-✔ Improve plant health  
-✔ Provide a simple and economical solution  
+👉 A **smart automated monitoring system** is essential for continuous observation and quick response.
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## ⚙️ 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘
+## 💡 𝗣𝗥𝗢𝗣𝗢𝗦𝗘𝗗 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
 
-1️⃣ Soil Moisture Sensor detects soil condition  
-2️⃣ When soil becomes dry → Signal is generated  
-3️⃣ IC NE555 Timer processes the signal  
-4️⃣ Relay Module gets activated  
-5️⃣ Water Pump turns ON  
-6️⃣ When required moisture level is reached → Pump turns OFF automatically  
+This system integrates:
+
+🧠 **AI-based leaf disease detection**  
+📡 **IoT-enabled environmental monitoring**  
+💧 **Automatic irrigation control**  
+🌿 **Smart pesticide spraying system**  
+📲 **Real-time farmer alerts**
+
+✔ Activates irrigation or spraying only when required  
+✔ Ensures early detection and timely intervention  
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🛠 𝗔𝗣𝗣𝗔𝗥𝗔𝗧𝗨𝗦 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗗
+## 🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
 
-🔹 Soil Moisture Sensor (5V)  
-🔹 IC NE555 Timer  
-🔹 Capacitor – 100µF  
-🔹 Resistors – 10Ω, 2Ω  
-🔹 Relay Module – 5V  
-🔹 DC Motor (3V–48V)  
-🔹 12V DC Water Pump  
-🔹 LM317 Voltage Regulator  
-🔹 AC Adapter (100–240V)  
+✔ Early disease detection  
+✔ Automated spraying mechanism  
+✔ Soil moisture-based smart irrigation  
+✔ Real-time monitoring and alerts  
+✔ Reduced resource wastage  
+✔ Improved crop productivity  
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🛠 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗖𝗢𝗠𝗣𝗢𝗡𝗘𝗡𝗧𝗦
+
+🔹 ESP32 – Main IoT controller  
+📷 USB Webcam – Leaf image capture  
+🌱 Soil Moisture Sensor  
+🌡 DHT11 Sensor  
+🕒 DS3231 RTC Module  
+🖥 OLED Display  
+🔌 Relay Module  
+💦 Water Pump  
+🚰 Float Sensors  
+🔋 Power Supply  
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💻 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗨𝗦𝗘𝗗
+
+• Python  
+• TensorFlow / Keras  
+• OpenCV  
+• Arduino IDE  
+• IoT Alert Platform  
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪
+
+1️⃣ Monitor soil and environmental conditions  
+2️⃣ Capture crop leaf image  
+3️⃣ Classify disease (Wilt / Blight / Rust)  
+4️⃣ Activate sprayer if disease is detected  
+5️⃣ Activate pump if soil moisture is low  
+6️⃣ Display live system status  
+7️⃣ Send real-time alert to farmer  
 
 ---
 
@@ -79,9 +111,42 @@ The main objective of this project is to:
 
 ## 📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
 
-✔ Soil dryness detected accurately  
-✔ Water pump activated automatically  
-✔ Irrigation stopped after moisture restoration  
-✔ Reliable and efficient system performance  
+✔ High-accuracy disease detection  
+✔ Automated irrigation and spraying  
+✔ Reduced manual monitoring  
+✔ Efficient resource utilization  
+✔ Minimized crop loss  
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🌍 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
+
+• Agricultural fields  
+• Greenhouse environments  
+• Precision farming  
+• Large-scale farm automation  
+• Smart irrigation systems  
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🚀 𝗙𝗨𝗧𝗨𝗥𝗘 𝗦𝗖𝗢𝗣𝗘
+
+• Multi-crop disease detection  
+• Drone-based monitoring  
+• Solar-powered deployment  
+• Cloud-based farm dashboard  
+• Dedicated farmer mobile application  
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎓 𝗔𝗖𝗔𝗗𝗘𝗠𝗜𝗖 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡
+
+📢 The project paper was successfully **published in an IEEE Conference**, showcasing innovation in AI-driven smart agriculture systems.
 
 ---
