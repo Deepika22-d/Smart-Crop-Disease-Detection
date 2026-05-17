@@ -1,0 +1,3 @@
+0 Wilt
+1 Blight
+2 Rust
