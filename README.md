@@ -50,6 +50,15 @@ This system integrates:
 ✔ Ensures early detection and timely intervention  
 
 ---
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎥 𝗗𝗘𝗠𝗢 𝗩𝗜𝗗𝗘𝗢
+
+Watch the complete working demonstration of the Smart Crop Disease Detection System.
+
+▶️ **[Click Here to Watch the Demo Video](https://drive.google.com/file/d/1DPbwfWcS5cnBxTld7NGMF9Z14PcypFWu/view?usp=drive_link)**
+
+---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
